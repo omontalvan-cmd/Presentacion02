@@ -21,7 +21,7 @@ Permite realizar un **Análisis Exploratorio de Datos (EDA)** sobre un dataset d
 
 
 ## Enlaces
-Repositorio GitHub: 
+Repositorio GitHub: https://github.com/omontalvan-cmd/Presentacion02/tree/main
 
 Aplicación en Streamlit Cloud: https://presentacion02-montalvanvillafuerteoscar.streamlit.app/
 
